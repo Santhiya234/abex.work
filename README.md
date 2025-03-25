@@ -12,6 +12,6 @@ This project generates a high-quality, SEO-optimized blog on trending HR topics 
 
 ## Installation
 ```sh
-git clone https://github.com/yourrepo/multi-agent-seo-blog.git
+git clone https://github.com/Santhiya234/abex.work.git
 cd multi-agent-seo-blog
 pip install -r requirements.txt
